@@ -29,6 +29,7 @@ Kali Linux custom configuration files.
     sudo apt install -y autoconf
     sudo apt install -y automake
     sudo apt install -y autotools-dev
+    sudo apt install -y html2text
     mkdir ~/Code
     mkdir ~/Tools
     cp ~/.zshrc ~/.zshrc.bak
